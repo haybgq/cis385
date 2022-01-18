@@ -5,6 +5,5 @@ Selenium - UI Automation with Python
    :maxdepth: 2
    :caption: Contents:
 
-   subject/index
-   another_subject/index
-   example/index
+   about/about
+   example/example

@@ -17,6 +17,10 @@ This is an example of **bold** text.
 
 * Item 3.
 
+.. code-block:: Python
+
+    print("Hello World")
+
 Subheading
 ----------
 

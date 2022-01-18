@@ -6,4 +6,5 @@ Selenium - UI Automation with Python
    :caption: Contents:
 
    about/about
+   report-1/report1
    example/example

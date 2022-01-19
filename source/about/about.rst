@@ -9,7 +9,7 @@ Webdriver and Selenium IDE. For more information, visit the
 Requirements
 ------------
 
-The ``readme.rst`` file in our `Github repository
+The ``readme.rst`` file in our `GitHub repository
 <https://www.selenium.dev/>`_ will outline a step-by-step guide on how to
 install all required tools to get started.
 

@@ -66,7 +66,8 @@ name is preceded with "*test*". The test case below will launch a Chrome browser
 access Google, then proceed to search for "Selenium", return results, and then
 close.
 
-Access the test case on GitHub.
+Access the test case on `GitHub
+<https://github.com/haybgq/cis385/blob/main/tests/first_test.py>`_ .
 
 
 Breakdown of Time Spent

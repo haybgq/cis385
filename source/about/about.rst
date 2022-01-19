@@ -1,17 +1,25 @@
 About
 =====
 
-This project will consist of automating a user flow for a web/browser-based
-interface via the exploration and use of Selenium Tools such as Selenium
-Webdriver and Selenium IDE. For more information, visit the
-`Selenium homepage <https://www.selenium.dev/>`_.
+Author
+------
+* **Name**: *Guy Sinarinzi-Hay*
+
+* **Email**: guy.hay@my.simpson.edu
+
+Project Details
+---------------
+
+This project explores web test automation using Selenium components, namely:
+Selenium WebDriver and Selenium IDE. For more information, visit the Selenium `homepage <https://www.selenium.dev/>`_.
+
 
 Requirements
 ------------
 
-The ``readme.rst`` file in our `GitHub repository
-<https://www.selenium.dev/>`_ will outline a step-by-step guide on how to
-install all required tools to get started.
+The ``readme.rst`` file in our `GitHub repository <https://github.com/haybgq/cis385/blob/main/readme.rst>`_
+will outline a step-by-step guide on how to install all required tools to
+get started.
 
 **Tools to be used for this project include, but are not limited to**:
 
@@ -40,8 +48,8 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
 
 * **Week 3 (Report 3) - Browsers and Elements**:
     * What browsers are we using?
-    * Locator strategies for elements
-    * Interacting with the elements
+    * Locator strategies for elements.
+    * Interacting with the elements.
 
 * **Week 4 (Report 4) - Automate Logging In**:
     * What goes into automating a user login flow?

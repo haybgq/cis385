@@ -23,8 +23,14 @@ Requirements:
        pip install --upgrade pip
 
 3. If packages are not imported, manually install them as follows:
-   `Selenium: <https://www.selenium.dev/documentation/webdriver/getting_started/>`_
 
-   `Pytest: <https://pypi.org/project/pytest/>`_
+   .. code-block:: Python
+
+      # Selenium:
+      pip install selenium
+
+      # Pytest:
+      pip install pytest
+
 4. Install Drivers:
    https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/

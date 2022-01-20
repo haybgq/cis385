@@ -105,8 +105,8 @@ Breakdown of Time Spent
    * Added additional notes to Getting Started page
    * Created and pushed first test script.
    * Updated ReadMe and Requirements files.
-   * Met with Prof. Craven to discuss Report 1 and demo first test case.
-   * Made updates to documentation following feedback from Prof. Craven
+   * Met with Dr. Craven to discuss Report 1 and demo first test case.
+   * Made updates to documentation following feedback from Dr. Craven.
 
 References
 ----------

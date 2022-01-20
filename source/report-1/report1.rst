@@ -86,7 +86,7 @@ exit the browser.
 Breakdown of Time Spent
 -----------------------
 
-**Total Time Spent**: 10 hours
+**Total Hours**: 12 hours
 
 * **Monday, 1/10**: 30 minutes
    * Met with Prof. Craven to discuss class/project expectations.
@@ -101,11 +101,12 @@ Breakdown of Time Spent
    * Created Report 1: Getting Started page.
    * Pushed changes to github.
 
-* **Wednesday, 1/19**: 3.5 hours
+* **Wednesday, 1/19**: 5.5 hours
    * Added additional notes to Getting Started page
    * Created and pushed first test script.
    * Updated ReadMe and Requirements files.
    * Met with Prof. Craven to discuss Report 1 and demo first test case.
+   * Made updates to documentation following feedback from Prof. Craven
 
 References
 ----------

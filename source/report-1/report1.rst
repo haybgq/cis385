@@ -2,8 +2,8 @@
 
 **Posted**: *1/19/22*
 
-Report 1: Getting Started
-=========================
+Report 1 & 2: Getting Started
+=============================
 
 This report covers activities performed between 1/10/22 - 1/19/22. There was a
 slight delay in delivering it due to unforeseen circumstances already discussed

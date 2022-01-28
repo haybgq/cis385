@@ -37,14 +37,14 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
 
 **Tentative Schedule**:
 
-* **Week 1 (Report 1) - Setup: Getting Started**:
-    * Libraries and WebDriver
-    * Basic automation script that access a page and performs minor activity
+* **Week 1 (Report 1) - Getting Started**:
+    * Setup Configuration
+    * First Test Case
 
-* **Week 2 (Report 2) - WebDriver Setup and Capabilities**:
-    * Configuring driver parameters to allow for automatic updates.
-    * What are the shared capabilities between WebDrivers?
-    * How do certain WebDrivers behave differently?
+* **Week 2 (Report 2) - Browser Drivers**:
+    * Defining Browser Drivers and How They Work.
+    * Browser Driver Configuration.
+    * Example Test Cases of Various Driver Setup & Behavior.
 
 * **Week 3 (Report 3) - Browsers and Elements**:
     * What browsers are we using?

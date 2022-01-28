@@ -9,6 +9,8 @@ This report covers activities performed between 1/10/22 - 1/19/22. There was a
 slight delay in delivering it due to unforeseen circumstances already discussed
 with Dr. Craven.
 
+.. _setup:
+
 Setup
 -----
 
@@ -28,7 +30,9 @@ By the end of the installation, we should have:
 In order to create and execute successful automation tests, we will download and
 configure the tools below:
 
-* **Selenium Webdriver**: A core component of the overall Selenium framework,
+.. _selenium webdriver:
+
+* **Selenium WebDriver**: A core component of the overall Selenium framework,
   it is an open-source tool that allows for the automation of user-facing web
   applications such as Linux, Mac and Windows. As a collection of open-source
   APIs Selenium WebDriver performs web testing across browsers such as Chrome,
@@ -42,6 +46,7 @@ configure the tools below:
 
      Selenium Webdriver architecture [#f1]_
 
+  .. _selenium ide:
 
 * **Selenium IDE (Integrated Development Environment)**: Also a component of the
   Selenium framework, the IDE is an browser add-on (Chrome and Firefox only)
@@ -111,7 +116,7 @@ Breakdown of Time Spent
 References
 ----------
 
-Code Repo: https://github.com/haybgq/cis385
+* `Code <https://github.com/haybgq/cis385>`_
 
 .. rubric:: Footnotes:
 .. [#f1] Bodke, A. (2020, May 7). Enhanced test automation with selenium

@@ -2,7 +2,7 @@
 
 **Posted**: *1/28/22*
 
-Report 2: Browser Drivers
+Report 3: Browser Drivers
 =========================
 
 This report covers activities performed between 1/20/22 - 1/28/22. The main
@@ -26,14 +26,14 @@ script, fetches those results from the browser and relays them back to the
 automation script. The browser driver performs the following tasks:
 
 #. The automation script is converted into a JSON file that is transmitted to
-   the browser driver via Wire Protocol over HTTP.
+   the browser driver.
 #. The browser driver parses the JSON file, reads the commands, then establishes
    a secure connection to the browser and proceeds to execute commands in the
    browser via the HTTP Server.
 #. The browser then relays the execution status response to the browser driver
    over HTTP Server.
 #. The browser driver converts the status response into a JSON file and relays
-   it back to the automation script via Wire Protocol over HTTP.
+   it back to the automation script.
 
 Selenium currently supports the following browsers:
 
@@ -62,7 +62,7 @@ browser. This is performed using the following commands in Python:
     driver = webdriver.Chrome()
 
 However, for this to work, the browser driver needs to be downloaded and
-configured appropriately. There are 3 methods that can be used to configure
+configured appropriately. There are three methods that can be used to configure
 and utilize browser drivers:
 
 .. _path directory:
@@ -76,19 +76,19 @@ given directory specified by ``PATH``.
 
 ``PATH`` is an environment variable that sets/specifies directories where
 executable programs are stored. To determine which local directories are stored
-on ``PATH``, we can use the following command in Terminal:
+on ``PATH``, we can execute the following via command line:
 
 .. code-block:: Shell
 
-   # Mac/Linux
+   # MacOS/Linux
    echo $PATH
 
    # Windows
    echo %PATH%
 
-As long as the driver file is stored in a directory listed in path, the script
-will pick it up at execution. Below is an example test case that runs with
-browser driver is stored in ``PATH``:
+As long as the driver file is stored in a directory listed in ``PATH``, the
+script will pick it up at execution. Below is an example test case that runs
+with browser driver is stored in ``PATH``:
 
 .. literalinclude:: ../../tests/test_driver_in_path.py
    :linenos:
@@ -152,29 +152,30 @@ with Driver Manager code:
 Breakdown of Time Spent
 -----------------------
 
-**Total Hours**: **11.5 hours**
+**Total Hours**: **12 hours**
 
 * **Friday, 1-21-2022**: 1 hour
-   * Setup initial documentation for Report 2.
+   * Setup initial documentation for Report 3.
    * Researched Browser Drivers.
 
 * **Thursday, 1-27-2022**: 3 hours
    * Coded test scripts with PATH.
-   * Added additional notes to Report 2 Definition section.
+   * Added additional notes to Report 3 Definition section.
 
-* **Friday, 1-28-2022**: 7.5 hours
+* **Friday, 1-28-2022**: 8 hours
    * Created Report 2 Configuration section.
    * Researched how to specify driver location and use driver manager.
    * Coded test script for specifying driver location.
    * Added code for driver manager logic.
-   * Cleaned up and formatted Report 2 documentation.
+   * Cleaned up and formatted Report 3 documentation.
    * Pushed all changes to GitHub.
+   * Updated Report 3 based on feedback comments from Dr. Craven.
 
 References
 ----------
 
-* `Code <https://github.com/haybgq/cis385>`_
-* `Drivers <https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference>`_
+* `Link to the code on GitHub <https://github.com/haybgq/cis385>`_
+* `Link to Driver Downloads <https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference>`_
 
 .. rubric:: Footnotes:
 .. [#f1] Selenium. (2022, January 12). Install browser drivers. Selenium.

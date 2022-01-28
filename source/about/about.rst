@@ -37,35 +37,35 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
 
 **Tentative Schedule**:
 
-* **Week 1 (Report 1) - Getting Started**:
+* **Week 1 (Report 1 & 2) - Getting Started**:
     * Setup Configuration
     * First Test Case
 
-* **Week 2 (Report 2) - Browser Drivers**:
+* **Week 2 (Report 3) - Browser Drivers**:
     * Defining Browser Drivers and How They Work.
     * Browser Driver Configuration.
     * Example Test Cases of Various Driver Setup & Behavior.
 
-* **Week 3 (Report 3) - Browsers and Elements**:
+* **Week 3 (Report 4) - Browsers and Elements**:
     * What browsers are we using?
     * Locator strategies for elements.
     * Interacting with the elements.
 
-* **Week 4 (Report 4) - Automate Logging In**:
+* **Week 4 (Report 3) - Automate Logging In**:
     * What goes into automating a user login flow?
     * What if they have 2FA? Can that be automated?
 
-* **Week 5 (Report 5) - Automation Assertions**:
+* **Week 5 (Report 4) - Automation Assertions**:
     * What are assertions?
     * Why are they important?
     * How do you implement them?
 
-* **Week 6 (Report 6) - Waits**:
+* **Week 6 (Report 5) - Waits**:
     * What are Waits?
     * When are they needed?
     * How do you implement them?
 
-* **Week 7 (Report 7) - Automation Explained**:
+* **Week 7 (Report 6) - Automation Explained**:
     * Why/when do we automate?
     * Automation best-practices.
     * Determining the best automation tool for your tests.

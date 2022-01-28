@@ -22,8 +22,8 @@ In :ref:`Setup <setup>`, we outlined the Selenium WebDriver :ref:`architecture <
 which showed the browser driver as the connector between the automation script
 and the browser. With this in mind, the browser driver can be defined as a
 program that interacts with the browser, relays instructions from an automation
-script, fetches those results and relays them back to the automation
-script. The browser driver performs its tasks as follows:
+script, fetches those results from the browser and relays them back to the
+automation script. The browser driver performs the following tasks:
 
 #. The automation script is converted into a JSON file that is transmitted to
    the browser driver via Wire Protocol over HTTP.

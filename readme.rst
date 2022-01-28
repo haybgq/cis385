@@ -32,5 +32,8 @@ Requirements:
       # Pytest:
       pip install pytest
 
+      # WebDriver Manager:
+      pip install webdriver-manager
+
 4. Install Drivers:
    https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/

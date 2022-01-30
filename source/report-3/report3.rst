@@ -131,10 +131,15 @@ updates come out.
 To do this, we need to install the ``webdriver-manager`` package, and import the
 appropriate module for your browser driver as follows:
 
-.. code-block:: Python
+In command line:
 
-    # Install WebDriver Manager Package
+.. code-block:: Shell
+
     pip install webdriver-manager
+
+In your automation script:
+
+.. code-block:: Python
 
     # Import ChromeDriverManager
     from webdriver_manager.chrome import ChromeDriverManager
@@ -163,7 +168,7 @@ Breakdown of Time Spent
    * Added additional notes to Report 3 Definition section.
 
 * **Friday, 1-28-2022**: 8 hours
-   * Created Report 2 Configuration section.
+   * Created Report 3 Configuration section.
    * Researched how to specify driver location and use driver manager.
    * Coded test script for specifying driver location.
    * Added code for driver manager logic.
@@ -175,7 +180,7 @@ References
 ----------
 
 * `Link to the code on GitHub <https://github.com/haybgq/cis385>`_
-* `Link to Driver Downloads <https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference>`_
+* `Link to Driver downloads <https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference>`_
 
 .. rubric:: Footnotes:
 .. [#f1] Selenium. (2022, January 12). Install browser drivers. Selenium.

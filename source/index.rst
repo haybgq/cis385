@@ -8,4 +8,3 @@ Selenium - UI Automation with Python
    about/about
    report-1/report1
    report-3/report3
-   example/example

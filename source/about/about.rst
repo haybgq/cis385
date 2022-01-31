@@ -51,21 +51,21 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
     * Locator strategies for elements.
     * Interacting with the elements.
 
-* **Week 4 (Report 3) - Automate Logging In**:
+* **Week 4 (Report 5) - Automate Logging In**:
     * What goes into automating a user login flow?
     * What if they have 2FA? Can that be automated?
 
-* **Week 5 (Report 4) - Automation Assertions**:
+* **Week 5 (Report 6) - Automation Assertions**:
     * What are assertions?
     * Why are they important?
     * How do you implement them?
 
-* **Week 6 (Report 5) - Waits**:
+* **Week 6 (Report 7) - Waits**:
     * What are Waits?
     * When are they needed?
     * How do you implement them?
 
-* **Week 7 (Report 6) - Automation Explained**:
+* **Week 7 (Report 8) - Automation Explained**:
     * Why/when do we automate?
     * Automation best-practices.
     * Determining the best automation tool for your tests.

@@ -26,7 +26,7 @@ automation functions happening on the browser side, which then relays status
 reports back to the WebDriver with each iteration. The browser is the medium
 upon which all automation functions all automation activities occur.
 
-In `Configuration <configuration>`, we learned the command to launch a
+In :ref:`Configuration <configuration>` , we learned the command to launch a
 browser-instance via the browser-driver (example: ``chromedriver``).
 
 .. _locator strategies:

@@ -121,7 +121,7 @@ Breakdown of Time Spent
    * Edited notes for browser navigation section.
    * Did a Report 4 demo with Dr. Craven.
 
-* **Friday, 2-6-2022**: 3 hours
+* **Sunday, 2-6-2022**: 3 hours
    * Updated Report 4 based on feedback comments from Dr. Craven.
    * Pushed all changes to GitHub.
 

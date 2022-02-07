@@ -1,0 +1,5 @@
+Command,Description
+click,Applies to any element
+send_keys,Applies to text fields and content editable elements
+clear,Applies to text fields and content editable elements
+submit,Applies to form elements

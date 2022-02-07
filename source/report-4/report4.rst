@@ -87,7 +87,7 @@ Below is a list of current interaction commands used in Selenium WebDriver:
    :widths: auto
    :header-rows: 1
 
-An example of these interactions in use can be found in :ref:`line 30-31, 52 and 58 <source code4>`
+An example of these interactions in use can be found in :ref:`lines 30-31, 52 and 58 <source code4>`
 of the source code.
 
 .. _source code4:

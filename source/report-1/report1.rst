@@ -18,8 +18,9 @@ To get started, access the ``readme.rst`` file on `GitHub <https://github.com/ha
 and follow the steps outlined in the document.
 
 .. literalinclude:: ../../readme.rst
+   :language: rst
    :linenos:
-   :caption: ReadMe File
+   :caption: readme.rst
 
 By the end of the installation, we should have:
 
@@ -63,6 +64,7 @@ configure the tools below:
 
      Selenium IDE architecture [#f2]_
 
+  .. _pytest:
 
 * **PyTest**: A test automation framework that allows for the creation
   of simple and scalable test cases in WebDriver. It allows for the grouping and

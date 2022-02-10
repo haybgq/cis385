@@ -1,0 +1,83 @@
+{
+  "id": "bd872da1-8e7f-4779-955d-ceb0f9a8d0b4",
+  "version": "2.0",
+  "name": "CIS-385: Selenium-IDE-Tests",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "5c2bd1c8-0bc9-4887-9116-2f001cc1651d",
+    "name": "Test-Google-Search",
+    "commands": [{
+      "id": "35cfe5f4-271b-407d-817e-c4a4bfdeb65c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5ff409b4-b297-40fe-93ec-2306e155f802",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1055",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7c52e03c-7a4e-43ff-80fc-3a439f821534",
+      "comment": "",
+      "command": "click",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "520553d6-b558-47f3-b0a4-e05a0597d201",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Paul Vincent Craven"
+    }, {
+      "id": "b0ad09d6-b7d5-48aa-921e-08c91354bb12",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "b241f47f-f063-4569-b6e8-0e9d4c33528d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tF2Cxc > .yuRUbf .LC20lb",
+      "targets": [
+        ["css=.tF2Cxc > .yuRUbf .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Paul Vincent Craven | Simpson College')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "706534f9-671f-4ba4-a595-c04b847a5e78",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5c2bd1c8-0bc9-4887-9116-2f001cc1651d"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}

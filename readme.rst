@@ -11,16 +11,17 @@ Selenium WebDriver Setup:
 1. Import all packages in `requirements.txt <https://github.com/haybgq/cis385/blob/main/requirements.txt>`_
    as follows:
 
-      .. code-block:: Shell
+   .. code-block:: Shell
 
-         # Install all requirements
-         pip install -r requirements.txt
+      # Install all requirements
+      # Note: Will not work on pinned (versioned) packages
+      pip install -r requirements.txt
 
-         # If you think you are missing only certain packages
-         pip install --ignore-installed -r requirements.txt
+      # If you think you are missing only certain packages
+      pip install --ignore-installed -r requirements.txt
 
-         # To upgrade current requirements
-         pip install --upgrade -r requirements.txt
+      # To upgrade current requirements
+      pip install --upgrade -r requirements.txt
 
 
 2. If there are any errors, ensure that you have the latest pip version as

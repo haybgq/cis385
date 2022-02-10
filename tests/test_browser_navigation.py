@@ -1,4 +1,4 @@
-# Report 2 - Automation Script Ran w/Driver in PATH
+# Test Browser Navigation
 
 # Import Libraries
 import pytest

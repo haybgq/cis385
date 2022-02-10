@@ -13,14 +13,14 @@ Selenium WebDriver Setup:
 
       .. code-block:: Shell
 
-         # If this is your first time:
-         # Note: This will not work if your packages are pinned (i.e. versioned)
+         # If this is your first time
+         # This will not work if your packages are pinned (i.e. versioned)
          pip install -r requirements.txt
 
-         # If you think you are missing only certain packages:
+         # If you think you are missing only certain packages
          pip install --ignore-installed -r requirements.txt
 
-         # To upgrade current requirements:
+         # To upgrade current requirements
          pip install --upgrade -r requirements.txt
 
 2. If there are any errors, ensure that you have the latest pip version as

@@ -1,0 +1,8 @@
+Component,General Purpose
+Menu Bar,"Naming, opening and saving test projects"
+Tool Bar,"Running, debugging and speed controlling tests"
+Address Bar,Stores all previously visited URLs for ease of navigation
+Test Case Pane,Lists all recorded test cases and suites
+Test Script Editor Box,Tracks and maintains all recorded user interactions with the browser
+Start/Stop Recording Button,Records all user actions in the browser
+"Log, Reference Pane",Provides run time messages during execution

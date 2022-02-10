@@ -37,39 +37,47 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
 
 **Tentative Schedule**:
 
-* **Week 1 (Report 1 & 2) - Getting Started**:
+* **Week 1 & 2 (Report 1 & 2) - Getting Started**:
     * Setup Configuration
     * First Test Case
 
-* **Week 2 (Report 3) - Browser Drivers**:
+* **Week 3 (Report 3) - Browser Drivers**:
     * Defining Browser Drivers and How They Work.
     * Browser Driver Configuration.
     * Example Test Cases of Various Driver Setup & Behavior.
 
-* **Week 3 (Report 4) - Browsers and Elements**:
+* **Week 4 (Report 4) - Browsers and Elements**:
     * Browser Navigation Commands
     * Locator strategies for elements.
     * Interacting with the elements.
 
-* **Week 4 (Report 5) - Selenium IDE**:
-    * Installation and Setup.
-    * How it Works.
+* **Week 5 (Report 5) - Selenium IDE**:
+    * Overview.
+    * Installation.
+    * Components.
+    * First Test Case.
 
-* **Week 5 (Report 6) - Automate Logging In**:
+* **Week 6 (Report 6) - Selenium IDE: Advanced Logic**:
+    * Looping, control flow and assertions.
+    * Debugging.
+    * Command-Line runner.
+    * Exporting code.
+
+* **Week 7 (Report 7) - Automate Logging In**:
     * What goes into automating a user login flow?
     * What if they have 2FA? Can that be automated?
 
-* **Week 6 (Report 7) - Automation Assertions**:
+* **Week 8 (Report 8) - Automation Assertions**:
     * What are assertions?
     * Why are they important?
     * How do you implement them?
 
-* **Week 7 (Report 8) - Waits**:
+* **Week 9 (Report 9) - Waits**:
     * What are Waits?
     * When are they needed?
     * How do you implement them?
 
-* **Week 8 (Report 9) - Automation Explained**:
+* **Week 10 (Report 10) - Automation Explained**:
     * Why/when do we automate?
     * Automation best-practices.
     * Determining the best automation tool for your tests.

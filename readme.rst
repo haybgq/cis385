@@ -8,7 +8,7 @@ WebDriver and Selenium IDE.
 Selenium WebDriver Setup:
 -------------------------
 
-1. Import all packages in `requirements.txt: <https://github.com/haybgq/cis385/blob/main/requirements.txt>`_
+1. Import all packages in `requirements.txt <https://github.com/haybgq/cis385/blob/main/requirements.txt>`_
    as follows:
 
       .. code-block:: Shell
@@ -21,6 +21,7 @@ Selenium WebDriver Setup:
 
          # To upgrade current requirements
          pip install --upgrade -r requirements.txt
+
 
 2. If there are any errors, ensure that you have the latest pip version as
    follows:

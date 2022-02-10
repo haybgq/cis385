@@ -28,14 +28,11 @@ def test_first_script():
 
     # 6. Enter and Search for Selenium string
     search_box.send_keys("Selenium")
+    assert search_box.get_attribute("value") == "Selenium"
     search_button.click()
 
-    # 7. Enter and Search for Selenium string
-    search_box = driver.find_element(by=By.NAME, value="q")
-    assert search_box.get_attribute("value") == "Selenium"
-
-    # 8. Add sleep to delay browser closer
+    # 7. Add sleep to delay browser closer
     time.sleep(2)
 
-    # 9. Exit browser
+    # 8. Exit browser
     driver.quit()

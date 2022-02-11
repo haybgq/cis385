@@ -60,7 +60,7 @@ Selenium IDE Setup:
 1. Launch your Chrome, Edge and/or Firefox browser.
 
 2. Navigate to the Selenium IDE `website <https://www.selenium.dev/selenium-ide/>`_
-   and install the appropriate the appropriate extension to your browser:
+   and install the appropriate extension to your browser:
 
    * Chrome: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 

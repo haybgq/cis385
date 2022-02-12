@@ -159,7 +159,7 @@ JSON format, as seen below:
 .. literalinclude:: ../../tests/cis-385-Selenium-IDE-Tests.side
    :language: json
    :linenos:
-   :caption: Selenium Test File
+   :caption: Selenium IDE Test File
 
 .. _time spent5:
 

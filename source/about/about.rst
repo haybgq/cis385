@@ -57,27 +57,32 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
     * Components.
     * First Test Case.
 
-* **Week 6 (Report 6) - Selenium IDE: Advanced Logic**:
-    * Looping, control flow and assertions.
+* **Week 6 (Report 6) - Selenium IDE: Control Flow**:
+    * Overview.
+    * Conditional Logic.
+    * Looping Logic.
+    * Nested Commands.
+
+* **Week 7 (Report 7) - Selenium IDE: Advanced Logic**:
     * Debugging.
     * Command-Line runner.
     * Exporting code.
 
-* **Week 7 (Report 7) - Automate Logging In**:
+* **Week 8 (Report 8) - Automate Logging In**:
     * What goes into automating a user login flow?
     * What if they have 2FA? Can that be automated?
 
-* **Week 8 (Report 8) - Automation Assertions**:
+* **Week 9 (Report 9) - Automation Assertions**:
     * What are assertions?
     * Why are they important?
     * How do you implement them?
 
-* **Week 9 (Report 9) - Waits**:
+* **Week 10 (Report 10) - Waits**:
     * What are Waits?
     * When are they needed?
     * How do you implement them?
 
-* **Week 10 (Report 10) - Automation Explained**:
+* **Week 11 (Report 11) - Automation Explained**:
     * Why/when do we automate?
     * Automation best-practices.
     * Determining the best automation tool for your tests.

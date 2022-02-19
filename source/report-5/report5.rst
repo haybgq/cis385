@@ -159,6 +159,7 @@ JSON format, as seen below:
 .. literalinclude:: ../../tests/cis-385-Selenium-IDE-Tests.side
    :language: json
    :linenos:
+   :lines: 1-79
    :caption: Selenium IDE Test File
 
 .. _time spent5:

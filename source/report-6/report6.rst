@@ -377,7 +377,7 @@ Breakdown of Time Spent
    * Created conditional solution test case.
 
 * **Wednesday, 2-16-2022**: 5 hours
-   * Researched Looping Logic.
+   * Researched looping logic.
    * Added initial conditional logic documentation.
 
 * **Thursday, 2-17-2022**: 5.5 hours

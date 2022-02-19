@@ -5,9 +5,12 @@
 Report 1 & 2: Getting Started
 =============================
 
-This report covers activities performed between 1/10/22 - 1/19/22. There was a
-slight delay in delivering it due to unforeseen circumstances already discussed
-with Dr. Craven.
+This report covers activities performed between 1/10/22 - 1/19/22. This section
+covers the process of setting up the tools you will need to begin automation.
+Contents include:
+
+* Setup
+* First Test Case
 
 .. _setup:
 

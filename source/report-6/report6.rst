@@ -354,10 +354,10 @@ solutions work, when determining the ideal test case, we must consider:
 1. **Relevance**: Both test cases are relevant.
 2. **Verbosity**: The Nested solution has more steps than the Looping solution.
 3. **Maintainability**: Due to greater verbosity and more expressions to
-                        evaluate, the Nested solution requires greater
-                        maintenance bandwidth.
+   evaluate, the Nested solution requires greater
+   maintenance bandwidth.
 4. **Performance**: The Looping solution runs faster due to fewer expressions to
-                    evaluate.
+   evaluate.
 
 We would prefer to use the Looping solution over the Nested solution for the
 outlined reasons.

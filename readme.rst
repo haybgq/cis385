@@ -5,8 +5,8 @@ This project will consist of automating a user flow for a web/browser-based
 interface via the exploration and use of Selenium Tools, namely: Selenium
 WebDriver and Selenium IDE.
 
-Selenium WebDriver Setup:
--------------------------
+Selenium WebDriver Setup
+------------------------
 
 1. Import all packages in `requirements.txt <https://github.com/haybgq/cis385/blob/main/requirements.txt>`_
    as follows:
@@ -54,8 +54,8 @@ Selenium WebDriver Setup:
 4. Install Drivers:
    https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
-Selenium IDE Setup:
--------------------
+Selenium IDE Setup
+------------------
 
 1. Launch your Chrome, Edge and/or Firefox browser.
 
@@ -74,8 +74,8 @@ Selenium IDE Setup:
 
 3. Click on the new Extension and confirm Selenium IDE GUI launches.
 
-Selenium IDE Command-Line Runner:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Selenium IDE Command-Line Runner
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Install NodeJS and Node Package Manager (npm) from your terminal/command prompt:
 

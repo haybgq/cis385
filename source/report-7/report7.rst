@@ -190,7 +190,7 @@ converting the JSON ``.side`` test scripts into a programming language
 This allows users to easily transition between using the SIDE and WebDriver.
 
 To use the code export feature, we begin by selecting a test we wish to convert
-and either right-clicking on it, or clicking on the triple-colon/kebab menu (⫶)
+and either right-clicking on it, or clicking on the tricolon/kebab menu (⫶)
 icon to the right of the test case name:
 
 .. figure:: ../image/se-ide-exportIcon.png

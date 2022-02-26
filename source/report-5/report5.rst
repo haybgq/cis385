@@ -79,7 +79,7 @@ the instructions in the the ``readme.rst`` file on `GitHub <https://github.com/h
 .. literalinclude:: ../../readme.rst
    :language: rst
    :lineno-start: 56
-   :lines: 56-74
+   :lines: 56-75
    :caption: readme.rst
 
 By the end of the installation, we should be able to launch and see SIDE display

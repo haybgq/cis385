@@ -30,26 +30,26 @@ Selenium WebDriver Setup:
    .. code-block:: Shell
 
       # Check pip version
-      pip --version
+      > pip --version
 
       # Install pip version
-      pip install
+      > pip install
 
       # Upgrade Pip
-       pip install --upgrade pip
+       > pip install --upgrade pip
 
 3. If packages are not imported, manually install them as follows:
 
    .. code-block:: Shell
 
       # Selenium:
-      pip install selenium
+      > pip install selenium
 
       # Pytest:
-      pip install pytest
+      > pip install pytest
 
       # WebDriver Manager:
-      pip install webdriver-manager
+      > pip install webdriver-manager
 
 4. Install Drivers:
    https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
@@ -73,3 +73,44 @@ Selenium IDE Setup:
        methods, please see `GitHub issue #1309 <https://github.com/SeleniumHQ/selenium-ide/issues/1309>`_.
 
 3. Click on the new Extension and confirm Selenium IDE GUI launches.
+
+Selenium IDE Command-Line Runner:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Install NodeJS and Node Package Manager (npm) from your terminal/command prompt:
+
+  * For macOS users:
+
+    .. code-block:: Shell
+
+       #package manager is usually installed with node
+       > brew install node
+
+  * For Other users:
+
+    * NodeJS: https://nodejs.org/en/download/
+    * Node Package Manager: https://nodejs.org/en/download/package-manager/
+
+2. Use Node Package Manger to install ``selenium-side-runner``:
+
+   .. code-block:: Shell
+
+      > npm install -g selenium-side-runner
+
+3. Install appropriate browser drivers:
+
+   .. code-block:: Shell
+
+      # Chrome:
+      > npm install -g chromedriver
+
+      # Edge:
+      > npm install -g edgedriver
+
+      # Firefox:
+      > npm install -g geckodriver
+
+      # Internet Explorer:
+      > npm install -g iedriver
+
+     #Safari driver is already pre-installed on MacBooks.

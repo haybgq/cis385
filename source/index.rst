@@ -11,3 +11,4 @@ Selenium - UI Automation with Python
    report-4/report4
    report-5/report5
    report-6/report6
+   report-7/report7

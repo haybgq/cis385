@@ -68,19 +68,19 @@ tentative, and may be revised based on outcome/discussions with Prof. Craven:
     * Command-Line runner.
     * Exporting code.
 
-* **Week 8 (Report 8) - Automate Logging In**:
-    * What goes into automating a user login flow?
-    * What if they have 2FA? Can that be automated?
-
-* **Week 9 (Report 9) - Automation Assertions**:
+* **Week 8 (Report 8) - Automation Assertions**:
     * What are assertions?
     * Why are they important?
     * How do you implement them?
 
-* **Week 10 (Report 10) - Waits**:
+* **Week 9 (Report 9) - Waits**:
     * What are Waits?
     * When are they needed?
     * How do you implement them?
+
+* **Week 10 (Report 10) - Automate Logging In**:
+    * What goes into automating a user login flow?
+    * What if they have 2FA? Can that be automated?
 
 * **Week 11 (Report 11) - Automation Explained**:
     * Why/when do we automate?

@@ -30,12 +30,13 @@ get started.
 #. **Programming Language(s)**: Python, JavaScript
 
 Project Plan
----------------------
+------------
 
 The project will be performed in small, scalable tasks. The schedule below is
 tentative, and may be revised based on outcome/discussions with Prof. Craven:
 
-**Tentative Schedule**:
+Tentative Schedule:
+^^^^^^^^^^^^^^^^^^^
 
 * **Week 1 & 2 (Report 1 & 2) - Getting Started**:
     * Setup Configuration

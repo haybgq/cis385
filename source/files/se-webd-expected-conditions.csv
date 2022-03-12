@@ -1,0 +1,18 @@
+Condition,Definition
+title_is,An expectation for checking the title of a page
+title_contains,An expectation for checking that the current url contains a case-sensitive substring.
+presence_of_element_located,An expectation for checking that an element is present on the DOM of a page.
+visibility_of_element_located,An expectation for checking that an element is present on the DOM of a page and visible.
+visibility_of,"An expectation for checking that an element known to be present on the DOM of a page, is visible."
+presence_of_all_elements_located,An expectation for checking that there is at least one element present on a web page.
+text_to_be_present_in_element,An expectation for checking if the given text is present in the specified element.
+text_to_be_present_in_element_value,An expectation for checking if the given text is present in the element's value.
+frame_to_be_available_and_switch_to_it,An expectation for checking whether the given frame is available to switch to.
+invisibility_of_element_located,An Expectation for checking that an element is either invisible or not present on the DOM.
+element_to_be_clickable,An Expectation for checking an element is visible and enabled such that you can click it.
+staleness_of,Wait until an element is no longer attached to the DOM.
+element_to_be_selected,An expectation for checking the selection is selected.
+element_located_to_be_selected,An expectation for the element to be located is selected.
+element_selection_state_to_be,An expectation for checking if the given element is selected.
+element_located_selection_state_to_be,An expectation to locate an element and check if the selection state specified is in that state.
+alert_is_present,An expectation to check that an alert is present

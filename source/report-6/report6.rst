@@ -8,13 +8,11 @@ Report 6: Selenium IDE - Control Flow
 This report covers activities performed between 2/14/22 - 2/19/22. As mentioned
 in the previous section, Selenium IDE does not require programming literacy.
 It does, however, possess commands (also known as *Selenese*) that can be
-leveraged by the more technical users to handle complex scenarios. This section
-covers the following topics:
+leveraged by the more technical users to handle complex scenarios.
 
-* Overview
-* Conditional Logic
-* Looping Logic
-* Test Cases
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _overview6:
 

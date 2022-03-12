@@ -7,10 +7,10 @@ Report 1 & 2: Getting Started
 
 This report covers activities performed between 1/10/22 - 1/19/22. This section
 covers the process of setting up the tools you will need to begin automation.
-Contents include:
 
-* Setup
-* First Test Case
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _setup:
 
@@ -18,12 +18,11 @@ Setup
 -----
 
 To get started, access the ``readme.rst`` file on `GitHub <https://github.com/haybgq/cis385/blob/main/readme.rst>`__
-and follow the steps outlined in the document.
+and follow the steps outlined in the document below:
 
-.. literalinclude:: ../../readme.rst
-   :language: rst
-   :linenos:
-   :caption: readme.rst
+.. include:: ../../readme.rst
+   :start-line: 7
+   :end-line: 56
 
 By the end of the installation, we should have:
 

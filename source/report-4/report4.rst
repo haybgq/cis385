@@ -7,13 +7,11 @@ Report 4: Browser & Elements
 
 This report covers activities performed between 1/29/22 - 2/6/22. So far, we
 have explored setting up selenium webdriver and configuring browser driver. This
-topic explores the activities that occur on the browser side of automation,
-including:
+topic explores the activities that occur on the browser side of automation.
 
-* Browser Navigation Commands
-* Identifying Elements on a Page (Locators)
-* Interacting with the Elements
-* Example Test Cases
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _browser navigation:
 
@@ -93,7 +91,7 @@ of the source code.
 .. _source code4:
 
 .. literalinclude:: ../../tests/test_element_interaction.py
-   :emphasize-lines: 25-27, 29-31, 47-49, 51-52, 57-58, 60-61
+   :emphasize-lines: 24-26, 28-30, 46-48, 50-51, 56-57, 59-60
    :linenos:
    :caption: Script for Element Find and Interaction
 

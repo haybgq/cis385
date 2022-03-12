@@ -8,11 +8,11 @@ Report 7: Selenium IDE - Advanced
 This report covers activities performed between 2/21/22 - 2/25/22. Selenium IDE
 possesses an arsenal of tools that help bridge the gap between those who prefer
 to program and those who would rather rely on the GUI. This section explores
-that bridge and covers the following topics:
+that bridge.
 
-* Debugging
-* Command-Line Runner
-* Exporting Code
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _debugging:
 

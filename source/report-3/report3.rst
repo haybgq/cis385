@@ -8,12 +8,11 @@ Report 3: Browser Drivers
 =========================
 
 This report covers activities performed between 1/20/22 - 1/28/22. The main
-focus for this period is centered around Browser Driver functionality. Topics
-covered include:
+focus for this period is centered around Browser Driver functionality.
 
-* Browser Driver Definition
-* Browser Driver Configuration
-* Example Test Cases
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _definition:
 

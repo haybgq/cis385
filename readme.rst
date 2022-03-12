@@ -62,11 +62,11 @@ Selenium IDE Setup
 2. Navigate to the Selenium IDE `website <https://www.selenium.dev/selenium-ide/>`_
    and install the appropriate extension to your browser:
 
-   * Chrome: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
+   * `Chrome <https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd>`_
 
-   * Edge: https://microsoftedge.microsoft.com/addons/detail/selenium-ide/ajdpfmkffanmkhejnopjppegokpogffp
+   * `Edge <https://microsoftedge.microsoft.com/addons/detail/selenium-ide/ajdpfmkffanmkhejnopjppegokpogffp>`_
 
-   * Firefox: https://addons.mozilla.org/en-GB/firefox/addon/selenium-ide/
+   * `Firefox <https://addons.mozilla.org/en-GB/firefox/addon/selenium-ide/>`_
 
      * **Note**: At the time of this post, the Firefox extension is undergoing
        some changes and is thus not available via the link. For alternative
@@ -79,7 +79,7 @@ Selenium IDE Command-Line Runner
 
 1. Install NodeJS and Node Package Manager (npm) from your terminal/command prompt:
 
-  * For macOS users:
+  * For MacOS users:
 
     .. code-block:: Shell
 
@@ -88,8 +88,8 @@ Selenium IDE Command-Line Runner
 
   * For Other users:
 
-    * NodeJS: https://nodejs.org/en/download/
-    * Node Package Manager: https://nodejs.org/en/download/package-manager/
+    * `NodeJS <https://nodejs.org/en/download/>`_
+    * `Node Package Manager <https://nodejs.org/en/download/package-manager/>`_
 
 2. Use Node Package Manger to install ``selenium-side-runner``:
 

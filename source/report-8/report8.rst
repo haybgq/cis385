@@ -197,7 +197,7 @@ To test the soft assertion, we will add it to the script below, where we expect
 a Python homepage title, but instead receive Google's title:
 
 .. literalinclude:: ../../tests/test_soft_assertions.py
-   :emphasize-lines: 32-36
+   :emphasize-lines: 29-35
    :linenos:
    :caption: Test Soft Assertions
 
@@ -250,7 +250,7 @@ Breakdown of Time Spent
    * Pushed all changes to GitHub.
 
 
-.. _references:
+.. _references8:
 
 References
 ----------

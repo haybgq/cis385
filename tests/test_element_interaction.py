@@ -9,18 +9,17 @@ import time
 
 
 def test_scenario_1():
-
     # Launch Browser
     driver = webdriver.Chrome()
+
+    # Wait for up to 10 seconds for elements to load on page
+    driver.implicitly_wait(10)
 
     # Navigate to Google
     driver.get("https://google.com")
 
     # Confirm you are on the correct page
     assert driver.title == "Google"
-
-    # Wait for elements to load on page
-    driver.implicitly_wait(1)
 
     # Find Elements
     search_box = driver.find_element(By.NAME, value="q")
@@ -51,10 +50,10 @@ def test_scenario_2():
     # Search for the word "elements" & (using interaction command  = send_keys)
     driver.find_element(By.CSS_SELECTOR, ".form-control").send_keys("elements")
 
-    # Add sleep to allow page elements to load
+    # Add sleep to temporarily suspend the execution.
     time.sleep(1)
 
-    # Press Enter & (using interaction command  = send_keys)
+    # Press Enter (using interaction command  = send_keys)
     driver.find_element(By.CSS_SELECTOR, ".form-control").send_keys(Keys.ENTER)
 
     # Find link to 'Finding web Elements' and select it

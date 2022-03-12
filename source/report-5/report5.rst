@@ -7,12 +7,11 @@ Report 5: Selenium IDE
 
 This report covers activities performed between 2/7/22 - 2/10/22. In the last
 four reports, we have covered Selenium WebDriver capabilities. This section
-explores the Selenium IDE test tool, covering the following topics:
+explores the Selenium IDE test tool.
 
-* Overview
-* Installation
-* Components
-* First Test Case
+.. contents:: Contents:
+   :depth: 3
+   :local:
 
 .. _overview5:
 
@@ -76,11 +75,9 @@ Installation
 Selenium IDE is available as a browser extension and can be installed following
 the instructions in the the ``readme.rst`` file on `GitHub <https://github.com/haybgq/cis385/blob/main/readme.rst>`__.
 
-.. literalinclude:: ../../readme.rst
-   :language: rst
-   :lineno-start: 56
-   :lines: 56-75
-   :caption: readme.rst
+.. include:: ../../readme.rst
+   :start-line: 55
+   :end-line: 75
 
 By the end of the installation, we should be able to launch and see SIDE display
 as shown in the image below:
@@ -114,14 +111,14 @@ most commonly-used features are listed in the table and figure below:
 First Selenium IDE Test Case
 ----------------------------
 
-Scenario:
-^^^^^^^^^
+Scenario
+^^^^^^^^
 
 Launch Chrome browser, navigate to Google, search for "Paul Vincent Craven",
 then access the returned results.
 
-Selenium IDE Record Test:
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Selenium IDE Record Test
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 After launching Selenium IDE by clicking on the browser extension, create a new
 test in a new project. Assign a project name, then set the base URL to Google
@@ -136,8 +133,8 @@ done. Assign a name to the recorded test case.
         Your browser does not support the video tag.
     </video>
 
-Selenium IDE Run Test:
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Selenium IDE Run Test
+^^^^^^^^^^^^^^^^^^^^^
 
 Once the test is recorded, and saved, users can run it any number of times by
 clicking the "Run" button. This can be seen in the Run Test demo file below:
@@ -150,8 +147,8 @@ clicking the "Run" button. This can be seen in the Run Test demo file below:
         Your browser does not support the video tag.
     </video>
 
-Selenium Projects:
-^^^^^^^^^^^^^^^^^^
+Selenium Projects
+^^^^^^^^^^^^^^^^^
 
 Selenium IDE projects, when saved, are assigned ".side" extension and stored in
 JSON format, as seen below:

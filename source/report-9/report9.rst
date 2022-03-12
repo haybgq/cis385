@@ -176,7 +176,7 @@ Breakdown of Time Spent
    * Added finishing touches to Report 9 documentation.
    * Demoed work to Dr. Craven.
 
-* **Saturday, 3-12-2022**: 1.5 hour
+* **Saturday, 3-12-2022**: 1.5 hours
    * Added Time Delay documentation and tests.
    * Made updates based on feedback from Dr. Craven.
    * Pushed all changes to GitHub.

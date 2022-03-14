@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Selenium Automation with Python'
-copyright = '20212, Guy Sinarinzi-Hay'
+copyright = '2022, Guy Sinarinzi-Hay'
 author = 'Guy Sinarinzi-Hay'
 
 

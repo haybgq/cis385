@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample Project Name'
-copyright = '2021, Jane Smith'
-author = 'Jane Smith'
+project = 'Selenium Automation with Python'
+copyright = '20212, Guy Sinarinzi-Hay'
+author = 'Guy Sinarinzi-Hay'
 
 
 # -- General configuration ---------------------------------------------------

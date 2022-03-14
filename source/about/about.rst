@@ -75,13 +75,14 @@ Tentative Schedule:
     * Test Cases.
 
 * **Week 9 (Report 9) - Waits**:
-    * What are Waits?
-    * When are they needed?
-    * How do you implement them?
+    * Overview.
+    * Types of Waits.
+    * Test Cases.
 
 * **Week 10 (Report 10) - Exception Handling**:
-    * What are exceptions
-    * How do we handle tem?
+    * Overview.
+    * Types of Exceptions.
+    * Test Cases.
 
 * **Week 11 (Report 11) - Automate Logging In**:
     * What goes into automating a user login flow?

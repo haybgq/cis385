@@ -32,7 +32,7 @@ def test_scenario_3():
         search_button.click()
 
     except TimeoutException:
-        print("Failed to locate search box.")
+        print("\n Failed to locate search box.")
 
     finally:
         # Exit browser

@@ -37,7 +37,7 @@ def test_single_exception():
 
     # Handle the NoSuchElementException by notifying user of missing element.
     except NoSuchElementException:
-        print("\nFailed to locate search box element.")
+        print("\nFailed to locate search string element.")
 
     # Locate search button
     search_button = driver.find_element(By.ID, "nav-search-submit-button")

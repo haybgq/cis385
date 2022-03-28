@@ -20,7 +20,7 @@ Overview
 --------
 
 In Selenium WebDriver, exceptions are errors that are generated when an
-unexpected event occurs, and serve as the basis of troubleshooting. When an
+unexpected event occurs, and serve as the basis for troubleshooting. When an
 exception is raised, the user flow comes to a halt (crash), along with a string
 of errors or messages -- known as tracebacks -- to help users determine the root
 cause.
@@ -41,9 +41,12 @@ We have encountered certain Selenium exceptions in previous chapters, such as
 ``TimeoutException`` (:ref:`Explicit Waits <explicit wait>`). The full list of
 Selenium-specific exceptions can be seen below:
 
+.. _common exceptions:
+
 .. csv-table:: Selenium Common Exceptions [#f1]_
    :file: ../files/se-webd-common-exceptions.csv
-   :widths: auto
+   :class: longtable
+   :widths: 1 1
    :header-rows: 1
 
 **Note**: The ``AssertionError`` will not be seen in the above list because
@@ -153,7 +156,7 @@ Best Practices
 Breakdown of Time Spent
 -----------------------
 
-**Total Hours**: **12.5 hours**
+**Total Hours**: **13.5 hours**
 
 * **Tuesday, 3-14-2022**: 1 hour
    * Created Report 10
@@ -173,6 +176,14 @@ Breakdown of Time Spent
 * **Monday, 3-21-2022**: 3 hours
    * Added multiple exceptions handling documentation, test case and best
      practices
+
+* **Thursday, 3-24-2022**: 0.5 hours
+   * Demoed work to Dr. Craven.
+
+* **Sunday, 3-27-2022**: 0.5 hours
+   * Discovered a neat little `hack <https://stackoverflow.com/a/41596044/18229751>`_ to
+     wrap text in csv-tables and applied it to the :ref:`Selenium Common Exceptions table <common exceptions>`.
+   * Pushed all changes to GitHub.
 
 .. _references10:
 

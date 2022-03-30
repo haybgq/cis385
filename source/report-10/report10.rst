@@ -46,7 +46,7 @@ Selenium-specific exceptions can be seen below:
 .. csv-table:: Selenium Common Exceptions [#f1]_
    :file: ../files/se-webd-common-exceptions.csv
    :class: longtable
-   :widths: 1 1
+   :widths: auto
    :header-rows: 1
 
 **Note**: The ``AssertionError`` will not be seen in the above list because

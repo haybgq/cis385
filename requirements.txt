@@ -3,3 +3,6 @@ sphinx-rtd-theme
 selenium
 pytest
 webdriver-manager
+flask
+flask-bootstrap4
+pyotp

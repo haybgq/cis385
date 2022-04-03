@@ -1,0 +1,10 @@
+Method,Description
+``pyotp.random_base32()``,Generates a 32-character base32 secret that is compatible with Google Authenticator and other OTP apps
+``pyotp.random_hex()``,Generates a 40-character hex-encoded secret
+``pyotp.TOTP('secret_key')``,Initializes TOTPs
+``pyotp.HOTP('secret_key')``,Initializes HOTPs
+``variableName.now()``,Generates TOTP or HOTP based on asociated secret key
+``variableName.verify('authentication code')``,Checks validaty (True or False) of the provided authentication code
+"``pyotp.variableName.TOTP.('secret_key').provisioning_uri(name='username/email', issuer_name='app name')``",Generates provisioning URI to use with with the QR Code scanner built into MFA client apps for TOTPs
+"``pyotp.variableName.HOTP.('secret_key').provisioning_uri(name='username/email', issuer_name='app name')``",Generates provisioning URI to use with with the QR Code scanner built into MFA client apps for HOTPs
+``pyotp.parse_uri('URL')``,Parses URL to accquire secret key

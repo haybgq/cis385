@@ -85,8 +85,12 @@ Tentative Schedule:
     * Test Cases.
 
 * **Week 11 (Report 11) - Automate Logging In**:
-    * What goes into automating a user login flow?
-    * What if they have 2FA? Can that be automated?
+    * Overview
+    * Single-Factor Authentication
+    * Two-Factor Authentication
+    * Understanding OTP
+    * TOTP in Automation
+    * Considerations
 
 * **Week 12 (Report 12) - Automate Checkboxes & Radio Buttons**:
     * Automating checkboxes.

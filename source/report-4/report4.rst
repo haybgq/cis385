@@ -2,6 +2,8 @@
 
 **Posted**: *2/7/22*
 
+.. _report 4-Browser & Elements:
+
 Report 4: Browser & Elements
 ============================
 
@@ -65,6 +67,8 @@ Below is a list of current locators used in Selenium WebDriver:
 
 An example of these locators in use can be found in :ref:`lines 26-27, 49 and 61 <source code4>`
 of the source code.
+
+.. _interaction strategies:
 
 Interacting with the Elements
 ------------------------------

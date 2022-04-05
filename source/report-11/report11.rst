@@ -199,7 +199,7 @@ considering the following:
    accepted standard, always consider adding more factors to minimize chances
    of a successful identity theft. While adding more factors might also mean
    verification is time consuming, the trade-off is incomparable where identity
-   and personal information is concerned.
+   and personal information are concerned.
 
 .. _time spent11:
 

@@ -115,7 +115,7 @@ Understanding OTP
 ^^^^^^^^^^^^^^^^^
 
 A One-Time Password is a string of digits, also known as the *authentication code*,
-that can only be used used once. This type of password is also referred to as a
+that can only be used once. This type of password is also referred to as a
 *dynamic password* because it constantly changes, whereas traditional passwords
 are known as *static passwords*.
 
@@ -173,7 +173,7 @@ are redirected to the *Successful Login* page.
 .. literalinclude:: ../../tests/test_login_two_factor.py
    :linenos:
    :emphasize-lines: 56-66
-   :caption: Single-Factor Authentication
+   :caption: Two-Factor Authentication
 
 
 .. _considerations:
@@ -193,7 +193,7 @@ considering the following:
    manager that requires the code to make calls to the storage system and
    retrieve login credentials. The credentials are not visible anywhere in the
    code, and passwords and OTP tokens alike are changed and rotated to prevent
-   likelihood of a branch.
+   likelihood of a breach.
 
 3. **The More Authentication Factors Used, The Better**: While TFA is the
    accepted standard, always consider adding more factors to minimize chances
@@ -206,7 +206,7 @@ considering the following:
 Breakdown of Time Spent
 -----------------------
 
-**Total Hours**: **16.5 hours**
+**Total Hours**: **17 hours**
 
 * **Monday, 3-28-2022**: 2 hours
    * Created Report 11
@@ -233,7 +233,11 @@ Breakdown of Time Spent
 * **Sunday, 4-3-2022**: 1.5 hours
    * Added documentation for PyOTP
    * Revised 2FA Login script
-   * Pushed changes to GitHub
+   * Pushed code to GitHub
+
+* **Thursday, 4-5-2022**: 0.5 hours
+   * Made revisions based on feedback from Dr. Craven
+   * Pushed revisions to GitHub
 
 .. _references10:
 

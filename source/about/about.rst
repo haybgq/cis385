@@ -92,13 +92,15 @@ Tentative Schedule:
     * TOTP in Automation
     * Considerations
 
-* **Week 12 (Report 12) - Automate Checkboxes & Radio Buttons**:
-    * Automating checkboxes.
-    * Automating radio buttons.
+* **Week 12 (Report 12) - Selection Element Automation**:
+    * Overview
+    * Radio Buttons
+    * CheckBoxes
+    * Dropdowns
 
-* **Week 13 (Report 13) - Automation Document Upload**:
-    * Types of document upload.
-    * Automating document upload.
+* **Week 13 (Report 13) - Automation Document Upload & Download**:
+    * Types of document uploads and downloads.
+    * Automating document upload and downloads.
 
 * **Week 14 (Report 14) - Conclusion: Automation Explained**:
     * Why/when do we automate?

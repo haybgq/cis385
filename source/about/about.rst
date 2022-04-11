@@ -101,7 +101,7 @@ Tentative Schedule:
     * Types of document uploads and downloads.
     * Automating document upload and downloads.
 
-* **Week 14 (Report 14) - Conclusion: Automation Explained**:
+* **Week 14 (Report 14) - Reflective Summary**:
     * Technical skills learned during the semester.
     * How to keep up-to-date: Continuous Education.
     * Skills learned about using written communication to communicate technical

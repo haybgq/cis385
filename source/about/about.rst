@@ -85,24 +85,26 @@ Tentative Schedule:
     * Test Cases.
 
 * **Week 11 (Report 11) - Automate Logging In**:
-    * Overview
-    * Single-Factor Authentication
-    * Two-Factor Authentication
-    * Understanding OTP
-    * TOTP in Automation
-    * Considerations
+    * Overview.
+    * Single-Factor Authentication.
+    * Two-Factor Authentication.
+    * Understanding OTP.
+    * TOTP in Automation.
+    * Considerations.
 
 * **Week 12 (Report 12) - Selection Element Automation**:
-    * Overview
-    * Radio Buttons
-    * CheckBoxes
-    * Dropdowns
+    * Overview.
+    * Radio Buttons.
+    * CheckBoxes.
 
 * **Week 13 (Report 13) - Automation Document Upload & Download**:
     * Types of document uploads and downloads.
     * Automating document upload and downloads.
 
 * **Week 14 (Report 14) - Conclusion: Automation Explained**:
-    * Why/when do we automate?
-    * Automation best-practices.
-    * Determining the best automation tool for your tests.
+    * Technical skills learned during the semester.
+    * How to keep up-to-date: Continuous Education.
+    * Skills learned about using written communication to communicate technical
+      topics.
+    * How written communication will factor into my future career.
+    * How to improve written communication after college.

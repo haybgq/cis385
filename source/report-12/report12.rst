@@ -156,7 +156,7 @@ Breakdown of Time Spent
 * **Sunday, 4-20-2022**: 2 hours
    * Added more radio button and checkbox documentation.
 
-* **Monday, 4-11-2022**: 5.5 hour
+* **Monday, 4-11-2022**: 5.5 hours
    * Added test script for radio buttons.
    * Added test script for checkboxes.
    * Documented and wrote a test script for dropdowns.

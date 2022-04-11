@@ -1,0 +1,4 @@
+Command,Description
+``is_displayed``,Determines whether an element is visible to the user by returning TRUE or FALSE.
+``is_enabled``,Determines whether an element is enabled by returning TRUE or FALSE.
+``is_selected``,Determines whether an element is selected by returning TRUE or FALSE.

@@ -20,10 +20,10 @@ Overview
 
 There are scenarios that require users to make various types of selections,
 ranging from single to multiple selection options. This section covers how to
-automate making selections using radio buttons, checkboxes and dropdowns.
+automate making selections using radio buttons and checkboxes.
 
-We will be using a practice form from the DemoQA website to demonstrate how to
-automate selection elements.
+We will be using a practice form from the DemoQA website for demonstration
+purposes.
 
 .. figure:: ../image/Test-DemoQA.png
    :width: 800px
@@ -35,7 +35,7 @@ automate selection elements.
 Radio Buttons
 -------------
 
-A radio button (🔘) is an graphical control element used for making selections.
+A radio button (🔘) is a graphical control element used for making selections.
 Radio buttons are limited to choosing only one option in a given instance, i.e.:
 when grouped together in a section, only one radio button option can be selected.
 This property is what gives radio buttons their name: Similar to the physical
@@ -72,11 +72,21 @@ enabled, will be required:
    Radio Buttons Required [#f1]_
 
 The test script below begins by navigating to the form, entering pertinent data,
-then checks to see whether or not the *Female* radio button is present and
-enabled. The radio is then selected and an assertion confirms that the
-selection was successful.
+then checks whether or not the appropriate radio button selection option is
+present and enabled. The radio button is then selected and an assertion confirms
+that the selection was successful.
 
-[Insert Test]
+.. literalinclude:: ../../tests/test_radio_button.py
+   :linenos:
+   :lines: 1-70
+   :emphasize-lines: 36-70
+   :caption: Radio Button Selection
+
+**Note**: From line 58 on, you may notice that we used one element to trigger
+the click event, but a different element to validate that the radio button had
+been selected. This is because the element that triggers the click event and the
+one that registers that the radio button was selected are different. This is
+seen from time to time where ReactJS dynamic components are used.
 
 .. _checkboxes:
 
@@ -87,20 +97,20 @@ In relation to radio buttons, checkboxes (☐ , ☒ , ☑︎) are defined as gra
 widgets that allow users to select multiple options in a given instance. In
 other words, where a user would only select one option for radio buttons, they
 can select multiple options with checkboxes. Checkboxes are thus used in
-situations where more than one option can be chosen, i.e.: *choosing all that
+situations where more than one option can be chosen, e.g.: *choosing all that
 apply*.
 
 While a good programmer will ensure that at least one checkbox is required (or
 at least have a checkbox that accounts for "Not Applicable"), you may encounter
 situations where having no checkbox required is acceptable. Additionally, unlike
-radio buttons, clicking into an already-checked checkbox will undo the action,
-returning it to a blank/un-checked state.
+radio buttons, clicking into an already-checked checkbox will undo that action,
+returning the checkbox to a blank/un-checked state.
 
 Therefore, when automating for checkboxes, it is important to be mindful of the
 number of clicks performed on a box. Or, at the very least, ensure that the
 ``is_selected()`` boolean returns ``TRUE`` where expected.
 
-Before we can write an automation script for checkbox automation, we should
+Before we can write an automation script for checkbox validation, we should
 check whether checkbox selection is required for form submission. We do this by
 filling out all pertinent fields and leaving the checkboxes blank.
 
@@ -120,30 +130,26 @@ checkbox (Hobbies) options.
 
 The reason it is important to know whether the checkbox options are required or
 not depend upon the scenarios we automate. If you need to write a test that
-ensures hobbies, when present, are included in the submitted form, then your
-test script would need to assert that some boxes are checked before submission.
+ensures *Hobbies* selection options, when present, are included in the submitted
+form, then your test script would need to assert that some boxes are checked
+before submission.
 
 Thus, the test script below is written to enter all pertinent fields, select
-both sports and music hobbies, assert that these options are selected, and
-submit the form.
+both *Sports* and *Music* hobbies, and assert whether these options are
+selected.
 
-[Insert Test]
-
-.. _dropdowns:
-
-Dropdowns
----------
-
-[Insert updated dropdown documentation if time permits]
-
-[Insert dropdown test]
+.. literalinclude:: ../../tests/test_checkbox.py
+   :linenos:
+   :lines: 1-111
+   :emphasize-lines: 55-111
+   :caption: Checkbox Selection
 
 .. _time spent12:
 
 Breakdown of Time Spent
 -----------------------
 
-**Total Hours**: **12.5 hours**
+**Total Hours**: **13.5 hours**
 
 * **Friday, 4-8-2022**: 2 hours
    * Researched radio button, checkbox and dropdown automation.
@@ -153,16 +159,16 @@ Breakdown of Time Spent
    * Added documentation for checkboxes.
    * Continued research for dropdown automation.
 
-* **Sunday, 4-20-2022**: 2 hours
+* **Sunday, 4-10-2022**: 2 hours
    * Added more radio button and checkbox documentation.
 
-* **Monday, 4-11-2022**: 5.5 hours
+* **Monday, 4-11-2022**: 6.5 hours
    * Added test script for radio buttons.
    * Added test script for checkboxes.
-   * Documented and wrote a test script for dropdowns.
    * Cleaned up documentation and checked for spelling errors.
-   * Pushed code to GitHub.
    * Reviewed report with Dr. Craven.
+   * Made some changes based on feedback from Dr. Craven.
+   * Pushed code to GitHub.
 
 .. _references12:
 

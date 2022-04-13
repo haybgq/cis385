@@ -30,7 +30,7 @@ class TestRadioButtonSelection:
         self.driver.find_element(By.ID, "firstName").send_keys("Test")
         self.driver.find_element(By.ID, "lastName").send_keys("Tester")
 
-        # 8 Provide user email
+        # Provide user email
         self.driver.find_element(By.ID, "userEmail").send_keys("test@test.com")
 
         # Find and assign a variable to the female radio button option

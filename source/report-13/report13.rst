@@ -7,7 +7,7 @@
 Report 13: Selenium WebDriver - Uploads & Downloads
 ===================================================
 
-This report covers activities performed between 4/15/22 - 4/17/22.
+This report covers activities performed between 4/15/22 - 4/18/22.
 
 .. contents:: Contents:
    :depth: 3
@@ -212,7 +212,7 @@ Breakdown of Time Spent
 **Total Hours**: **11.5 hours**
 
 * **Friday, 4-15-2022**: 3 hours
-   * Created Report 13 initial outline
+   * Created Report 13 initial outline.
    * Researched upload and download automation process.
 
 * **Saturday, 4-16-2022**: 2 hours

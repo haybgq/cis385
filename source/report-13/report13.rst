@@ -172,7 +172,7 @@ following:
 Breakdown of Time Spent
 -----------------------
 
-**Total Hours**: **11.5 hours**
+**Total Hours**: **15 hours**
 
 * **Friday, 4-15-2022**: 3 hours
    * Created Report 13 initial outline.

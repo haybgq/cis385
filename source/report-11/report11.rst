@@ -2,7 +2,7 @@
 
 **Posted**: *4/3/22*
 
-.. _report 11-UserLogin:
+.. _report 11:
 
 Report 11: Selenium WebDriver - User Login & 2FA
 ================================================
@@ -88,7 +88,7 @@ login is a straight-forward process: All we need are the right locator elements
 to find the username and password form fields. Then, we can use an interaction
 command to enter the pertinent data and proceed to authenticate the user.
 For a refresher on locators and interaction commands, please visit the
-:ref:`Browser & Elements <report 4-Browser & Elements>` section.
+:ref:`Browser & Elements <report-4>` section.
 
 The test script below shows a single-factor login scenario:
 
@@ -239,7 +239,7 @@ Breakdown of Time Spent
    * Made revisions based on feedback from Dr. Craven
    * Pushed revisions to GitHub
 
-.. _references10:
+.. _references11:
 
 References
 ----------

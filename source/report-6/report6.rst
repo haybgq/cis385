@@ -2,6 +2,8 @@
 
 **Posted**: *2/19/22*
 
+.. _report-6:
+
 Report 6: Selenium IDE - Control Flow
 =====================================
 

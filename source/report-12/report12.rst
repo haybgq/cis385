@@ -2,7 +2,7 @@
 
 **Posted**: *4/11/22*
 
-.. _report 12-SelectionAutomation:
+.. _report 12:
 
 Report 12: Selenium WebDriver - Selection Element Automation
 ============================================================

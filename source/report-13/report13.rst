@@ -4,7 +4,7 @@
 
 (**Updated**: *4/19/22*)
 
-.. _report 13-Uploads&Downloads:
+.. _report 13:
 
 Report 13: Selenium WebDriver - Uploads & Downloads
 ===================================================

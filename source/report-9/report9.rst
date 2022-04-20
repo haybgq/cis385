@@ -2,6 +2,8 @@
 
 **Posted**: *3/12/22*
 
+.. _report-9:
+
 Report 9: Selenium WebDriver - Waits
 ====================================
 

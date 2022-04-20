@@ -2,6 +2,8 @@
 
 **Posted**: *2/10/22*
 
+.. _report-5:
+
 Report 5: Selenium IDE
 ======================
 

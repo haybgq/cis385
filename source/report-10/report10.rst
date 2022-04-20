@@ -2,6 +2,8 @@
 
 **Posted**: *3/21/22*
 
+.. _report-10:
+
 Report 10: Selenium WebDriver - Exception Handling
 ==================================================
 

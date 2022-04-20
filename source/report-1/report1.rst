@@ -2,6 +2,8 @@
 
 **Posted**: *1/19/22*
 
+.. _report1-2:
+
 Report 1 & 2: Getting Started
 =============================
 

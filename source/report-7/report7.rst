@@ -2,6 +2,8 @@
 
 **Posted**: *2/25/22*
 
+.. _report-7:
+
 Report 7: Selenium IDE - Advanced
 =================================
 
@@ -128,7 +130,7 @@ to complete installation:
   :end-line: 117
 
 **Note**: Step 3 can be ignored if you have been following along, since we would
-have installed all pertinent drivers in :ref:`Browser Drivers <report 3-Browser Drivers>`.
+have installed all pertinent drivers in :ref:`Browser Drivers <report-3>`.
 
 Launching SIDE Runner
 ^^^^^^^^^^^^^^^^^^^^^

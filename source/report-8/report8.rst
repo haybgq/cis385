@@ -2,6 +2,8 @@
 
 **Posted**: *3/4/22*
 
+.. _report-8:
+
 Report 8: Selenium WebDriver - Assertions
 =========================================
 

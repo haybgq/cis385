@@ -2,7 +2,7 @@
 
 **Posted**: *1/28/22*
 
-.. _report 3-Browser Drivers:
+.. _report-3:
 
 Report 3: Browser Drivers
 =========================

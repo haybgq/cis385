@@ -50,7 +50,7 @@ class TestRadioButtonSelection:
 
         # Else if radio button is displayed, but not enabled, stop the test and
         # print message to notify user
-        elif radio_button_female.is_displayed() & \
+        elif radio_button_female.is_displayed() and \
                 (not radio_button_female.is_enabled()):
             assert radio_button_female.is_enabled(), "\n'Gender = Female' " \
                                                      "radio not enabled."

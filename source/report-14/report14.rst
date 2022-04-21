@@ -48,7 +48,7 @@ technical skills learned during the course of this class include:
   necessary architecture, components and modules to implement successful
   automation testing.
 
-* **Selenese**: Geting familiar with the language used to write selenium
+* **Selenese**: Getting familiar with the language used to write selenium
   commands was another key skill acquired. This included understanding the
   browser-element relationship and learning how to use locators and
   interaction commands as outlined in :ref:`Report 4 <report-4>`.
@@ -79,9 +79,9 @@ technical skills learned during the course of this class include:
 2. Continuous Education Post-Graduation
 ---------------------------------------
 
-With current technological trends changing each day, it important to stay
-up-to-date if one is to remain marketable in today's technology job market. In
-fact, college simply provides *breadth* of knowledge in courses. The *depth*
+With current technological trends changing each day, it is important to stay
+up-to-date if one is to remain marketable in today's technology industry. In
+fact, college simply provides a *breadth* of knowledge via courses. The *depth*
 comes with specialization and continuous education. I plan on remaining a
 lifelong learner through the following methods:
 

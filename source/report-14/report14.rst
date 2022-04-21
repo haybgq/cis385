@@ -108,6 +108,10 @@ lifelong learner through the following methods:
   share ideas/learn from her whenever our schedules permit. I hope to have this
   relationship with more professors where possible.
 
+* **Pursuing a Master's Degree**: While this is not completely set in stone,
+  I plan to pursue a `Master's of Science in Data Science <https://sps.northwestern.edu/masters/data-science/curriculum-specializations.php>`_
+  with a specialization in Data Engineering sometime in the Fall of 2023.
+
 3. Skills Learned Using Written Communication
 ---------------------------------------------
 

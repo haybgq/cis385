@@ -362,41 +362,6 @@ solutions work, when determining the ideal test case, we must consider:
 We would prefer to use the Looping solution over the Nested solution for the
 outlined reasons.
 
-.. _time spent6:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **23 hours**
-
-* **Monday, 2-14-2022**: 1 hour
-   * Setup initial documentation for Report 6.
-
-* **Tuesday, 2-15-2022**: 3 hours
-   * Researched conditional logic.
-   * Created conditional solution test case.
-
-* **Wednesday, 2-16-2022**: 5 hours
-   * Researched looping logic.
-   * Added initial conditional logic documentation.
-
-* **Thursday, 2-17-2022**: 5.5 hours
-   * Created looping solution test cases.
-   * Added initial looping logic documentation.
-   * Created nesting solution test cases.
-   * Demoed work to Dr. Craven.
-
-* **Friday, 2-17-2022**: 3.5 hours
-   * Made updates based on Dr. Craven's feedback.
-   * Added screenshots and references for control flow logic.
-   * Added nesting logic documentation.
-
-* **Saturday, 2-18-2022**: 5 hours
-   * Cleaned up test cases.
-   * Added screenshots for scenarios.
-   * Added more documentation to Report 6.
-   * Pushed all changes to GitHub.
-
 .. _references6:
 
 References

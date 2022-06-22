@@ -99,35 +99,6 @@ of the source code.
    :linenos:
    :caption: Script for Element Find and Interaction
 
-.. _time spent4:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **14 hours**
-
-* **Monday, 1-31-2022**: 1 hour
-   * Setup initial documentation for Report 4.
-
-* **Wednesday, 2-2-2022**: 2 hours
-   * Researched browser navigation commands.
-   * Added notes to page.
-
-* **Thursday, 2-3-2022**: 4 hours
-   * Added example script for browser navigation.
-   * Researched element locator and interactions.
-   * Added element notes to Report 4 page.
-
-* **Friday, 2-4-2022**: 4 hours
-   * Added scripts for element interaction and locators.
-   * Edited notes for browser navigation section.
-   * Did a Report 4 demo with Dr. Craven.
-
-* **Sunday, 2-6-2022**: 3 hours
-   * Updated Report 4 based on feedback comments from Dr. Craven.
-   * Pushed all changes to GitHub.
-
-
 References
 ----------
 

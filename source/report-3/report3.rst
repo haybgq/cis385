@@ -153,30 +153,6 @@ with Driver Manager code:
    :linenos:
    :caption: Script for Driver Manager Test
 
-.. _time spent:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **12 hours**
-
-* **Friday, 1-21-2022**: 1 hour
-   * Setup initial documentation for Report 3.
-   * Researched Browser Drivers.
-
-* **Thursday, 1-27-2022**: 3 hours
-   * Coded test scripts with PATH.
-   * Added additional notes to Report 3 Definition section.
-
-* **Friday, 1-28-2022**: 8 hours
-   * Created Report 3 Configuration section.
-   * Researched how to specify driver location and use driver manager.
-   * Coded test script for specifying driver location.
-   * Added code for driver manager logic.
-   * Cleaned up and formatted Report 3 documentation.
-   * Pushed all changes to GitHub.
-   * Updated Report 3 based on feedback comments from Dr. Craven.
-
 References
 ----------
 

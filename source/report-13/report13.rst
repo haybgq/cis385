@@ -167,33 +167,6 @@ following:
    work, but these may be `time-consuming <https://blog.j-labs.pl/2017/02/Selenium-Webdriver-browser-preferences-for-downloading-files>`_
    as they would require configuring every automation workstation available.
 
-.. _time spent13:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **15 hours**
-
-* **Friday, 4-15-2022**: 3 hours
-   * Created Report 13 initial outline.
-   * Researched upload and download automation process.
-
-* **Saturday, 4-16-2022**: 2 hours
-   * Added documentation for standard and drag-and-drop upload functionality.
-
-* **Sunday, 4-17-2022**: 2 hours
-   * Added documentation for standard and set location download functionality.
-
-* **Monday, 4-18-2022**: 7.75 hours
-   * Added test script for upload functionality.
-   * Added test script for download functionality.
-   * Pushed code to GitHub.
-   * Reviewed report with Dr. Craven.
-   * Made revisions based on Dr. Craven's feedback.
-
-* **Tuesday, 4-19-2022**: 0.25 hours
-   * Pushed revised code to GitHub.
-
 .. _references13:
 
 References

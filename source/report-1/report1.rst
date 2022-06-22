@@ -93,32 +93,6 @@ exit the browser.
 
 `See Code on GitHub <https://github.com/haybgq/cis385/blob/main/tests/first_test.py>`__
 
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: 12 hours
-
-* **Monday, 1-10-2022**: 30 minutes
-   * Met with Prof. Craven to discuss class/project expectations.
-
-* **Thursday, 1-13-2022**: 30 minutes
-   * Met with Prof. Craven to setup Sphinx and ReadMe.
-
-* **Friday, 1-14-2022**: 1.5 hours
-   * Setup documentation for About Page.
-
-* **Monday, 1-17-2022**: 4 hours
-   * Created Report 1: Getting Started page.
-   * Pushed changes to github.
-
-* **Wednesday, 1-19-2022**: 5.5 hours
-   * Added additional notes to Getting Started page
-   * Created and pushed first test script.
-   * Updated ReadMe and Requirements files.
-   * Met with Dr. Craven to discuss Report 1 and demo first test case.
-   * Made updates to documentation following feedback from Dr. Craven.
-
 References
 ----------
 

@@ -231,32 +231,6 @@ shown below:
 Notice the script has automatically imported all the pertinent libraries,
 comments and functions, making it ready to be ran in Selenium WebDriver.
 
-.. _time spent7:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **11.5 hours**
-
-* **Monday, 2-21-2022**: 1 hour
-   * Setup initial documentation for Report 7.
-
-* **Tuesday, 2-22-2022**: 2 hours
-   * Researched debugging feature.
-
-* **Wednesday, 2-23-2022**: 4 hours
-   * Added debugging screenshots and documentation.
-   * Researched command-line runner.
-
-* **Thursday, 2-24-2022**: 3.5 hours
-   * Added command-line runner documentation and screenshots.
-   * Added export code documentation and screenshots.
-   * Demoed work to Dr. Craven.
-
-* **Friday, 2-25-2022**: 1 hour
-   * Made updates based on Dr. Craven's feedback.
-   * Pushed all changes to GitHub.
-
 .. _references7:
 
 References

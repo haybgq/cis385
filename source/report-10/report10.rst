@@ -153,40 +153,6 @@ Best Practices
   could, in turn, result in bad tests and impact overall quality. Therefore, to
   reiterate, please handle the exceptions you expected, and not the unknowns.
 
-.. _time spent10:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **13.5 hours**
-
-* **Monday, 3-14-2022**: 1 hour
-   * Created Report 10
-   * Added Overview documentation
-
-* **Tuesday, 3-15-2022**: 2 hours
-   * Researched types of exceptions
-   * Added initial documentation for types of exceptions
-
-* **Wednesday, 3-16-2022**: 4 hours
-   * Completed documentation for Types of Exceptions
-   * Added documentation and test cases for Exception Handling Methods
-
-* **Thursday, 3-17-2022**: 2.5 hours
-   * Added single exception handling documentation and tests
-
-* **Monday, 3-21-2022**: 3 hours
-   * Added multiple exceptions handling documentation, test case and best
-     practices
-
-* **Thursday, 3-24-2022**: 0.5 hours
-   * Demoed work to Dr. Craven.
-
-* **Sunday, 3-27-2022**: 0.5 hours
-   * Discovered a neat little `hack <https://stackoverflow.com/a/41596044/18229751>`_ to
-     wrap text in csv-tables and applied it to the :ref:`Selenium Common Exceptions table <common exceptions>`.
-   * Pushed all changes to GitHub.
-
 .. _references10:
 
 References

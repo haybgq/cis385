@@ -201,44 +201,6 @@ considering the following:
    verification is time consuming, the trade-off is incomparable where identity
    and personal information are concerned.
 
-.. _time spent11:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **17 hours**
-
-* **Monday, 3-28-2022**: 2 hours
-   * Created Report 11
-   * Researched user login automation
-
-* **Tuesday, 3-29-2022**: 4 hours
-   * Added Overview documentation
-   * Created initial login page route
-
-* **Wednesday, 3-30-2022**: 3.5 hours
-   * Completed documentation for Overview
-   * Added documentation for Single-Factor Authentication
-   * Added form control code for login page route
-   * Added test case for single-factor login
-
-* **Thursday, 3-31-2022**: 2.5 hours
-   * Added documentation Two-Factor Authentication
-   * Added 2FA page and form control
-
-* **Saturday, 4-1-2022**: 3 hours
-   * Added OTP and TOTP documentation
-   * Created test case for 2FA Login
-
-* **Sunday, 4-3-2022**: 1.5 hours
-   * Added documentation for PyOTP
-   * Revised 2FA Login script
-   * Pushed code to GitHub
-
-* **Thursday, 4-5-2022**: 0.5 hours
-   * Made revisions based on feedback from Dr. Craven
-   * Pushed revisions to GitHub
-
 .. _references11:
 
 References

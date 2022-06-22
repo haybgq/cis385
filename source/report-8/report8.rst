@@ -224,34 +224,6 @@ Notice that an ``AssertionError`` was thrown during test execution, however, the
 try exception block handled it by reporting an error without halting the test
 execution.
 
-.. _time spent8:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **11 hours**
-
-* **Monday, 2-28-2022**: 2.5 hours
-   * Setup initial documentation for Report 8.
-   * Began research on types of assertions.
-
-* **Tuesday, 3-1-2022**: 1.5 hours
-   * Added documentation for hard asserts.
-
-* **Wednesday, 3-2-2022**: 3 hours
-   * Created test scripts with hard asserts.
-
-* **Thursday, 3-3-2022**: 1.5 hours
-   * Added documentation for soft asserts.
-   * Created test script with soft assert.
-
-* **Friday, 3-4-2022**: 2.5 hours
-   * Added finishing touches to Report 8 documentation.
-   * Demoed work to Dr. Craven.
-   * Made updates based on feedback from Dr. Craven.
-   * Pushed all changes to GitHub.
-
-
 .. _references8:
 
 References

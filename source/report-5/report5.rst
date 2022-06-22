@@ -161,28 +161,6 @@ JSON format, as seen below:
    :lines: 1-79
    :caption: Selenium IDE Test File
 
-.. _time spent5:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **11 hours**
-
-* **Tuesday, 2-8-2022**: 1 hour
-   * Setup initial documentation for Report 5.
-
-* **Wednesday, 2-9-2022**: 5 hours
-   * Researched Selenium IDE functions and capabilities.
-   * Added notes to page.
-
-* **Thursday, 2-10-2022**: 5 hours
-   * Added Selenium IDE installation and components sections to Report 5.
-   * Record Selenium test case and attached screen recordings to Report 5.
-   * Demoed work to Dr. Craven.
-   * Made updates based on Dr. Craven's feedback.
-   * Pushed all changes to GitHub.
-
-
 References
 ----------
 

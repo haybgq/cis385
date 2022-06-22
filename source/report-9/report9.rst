@@ -156,33 +156,6 @@ Therefore, using ``time.sleep`` is considered a bad testing practice as it
 affects performance and delays execution where implicit and explicit waits would
 have sufficed.
 
-.. _time spent9:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **12 hours**
-
-* **Tuesday, 3-8-2022**: 3 hours
-   * Created Report 9
-   * Added Overview documentation
-   * Researched Types of Waits
-
-* **Wednesday, 3-9-2022**: 3 hours
-   * Researched Implicit Waits.
-   * Added Implicit Wait documentation and tests.
-   * Researched Explicit Waits.
-
-* **Friday, 3-11-2022**: 4.5 hours
-   * Added Explicit Wait documentation and tests.
-   * Added finishing touches to Report 9 documentation.
-   * Demoed work to Dr. Craven.
-
-* **Saturday, 3-12-2022**: 1.5 hours
-   * Added Time Delay documentation and tests.
-   * Made updates based on feedback from Dr. Craven.
-   * Pushed all changes to GitHub.
-
 .. _references9:
 
 References

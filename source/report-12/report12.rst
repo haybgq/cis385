@@ -144,32 +144,6 @@ selected.
    :emphasize-lines: 55-111
    :caption: Checkbox Selection
 
-.. _time spent12:
-
-Breakdown of Time Spent
------------------------
-
-**Total Hours**: **13.5 hours**
-
-* **Friday, 4-8-2022**: 2 hours
-   * Researched radio button, checkbox and dropdown automation.
-
-* **Saturday, 4-9-2022**: 3 hours
-   * Added documentation for radio buttons.
-   * Added documentation for checkboxes.
-   * Continued research for dropdown automation.
-
-* **Sunday, 4-10-2022**: 2 hours
-   * Added more radio button and checkbox documentation.
-
-* **Monday, 4-11-2022**: 6.5 hours
-   * Added test script for radio buttons.
-   * Added test script for checkboxes.
-   * Cleaned up documentation and checked for spelling errors.
-   * Reviewed report with Dr. Craven.
-   * Made some changes based on feedback from Dr. Craven.
-   * Pushed code to GitHub.
-
 .. _references12:
 
 References
